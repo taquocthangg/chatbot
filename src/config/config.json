@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "root",
+        "password": "",
+        "database": "chatbot",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "Tqt02042003@",
+        "database": "hopitech",
+        "host": "sv.hopitech.xyz",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "Tqt02042003@",
+        "database": "hopitech",
+        "host": "sv.hopitech.xyz",
+        "dialect": "mysql"
+    }
+}
